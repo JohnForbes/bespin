@@ -1,0 +1,1 @@
+{"watch": ["*.py", "*.md"], "ignore": ["internal/*"]}
